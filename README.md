@@ -2,7 +2,7 @@
 
 # About me
 
-I'm Federico, Senior Tech Lead and Software Engineer @ [Mia-Platform](https://mia-platform.eu).
+I'm Federico, Senior Technical Lead and Software Engineer @ [Mia-Platform](https://mia-platform.eu).
 
 # Public speaking
 
