@@ -1,5 +1,8 @@
-Passionate about music and quality code
+> Passionate about music and quality code
 
+# About me
+
+I'm Federico, Senior Tech Lead and Software Engineer @ [Mia-Platform](https://mia-platform.eu).
 
 # Public speaking
 
