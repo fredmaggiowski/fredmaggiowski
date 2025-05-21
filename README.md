@@ -6,6 +6,8 @@ I'm Federico, Senior Technical Lead and Software Engineer @ [Mia-Platform](https
 
 # Public speaking
 
+* **[Platmosphere 2025](https://platmosphere.com/talks/infrastructure-management)** - May 2025, Milan, IT<br>
+  Talk: *Unify Your Stack: Infrastructure Management with Mia-Platform*
 * **[Platmosphere 2024](https://platmosphere.com/talks/secure-your-platform-with-iam-and-fine-grained-authorization/)** - May 2024, Milan, IT<br>
   Talk: *Secure Your Platform With IAM And Fine Grained Access Control* - [Slides](https://github.com/rond-authz/community-resources/blob/main/talks/240514%20-%20Secure%20Your%20Platform%20With%20IAM%20And%20Fine%20Grained%20Access%20Control%20-%20Platmosphere%20Milan.pdf)
 * **[KCD Munich 2022](https://community.cncf.io/events/details/cncf-kcd-munich-presents-kubernetes-community-days-munich-2022-1/)** - October 2022 Munich, DE<br>
